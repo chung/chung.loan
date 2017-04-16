@@ -6,7 +6,7 @@ theme = "hugo-identity-theme"
 #themesDir = "../.."
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXX-Y"
+#googleAnalytics = "UA-XXXXX-Y"
 
 [params]
   
@@ -44,12 +44,12 @@ googleAnalytics = "UA-XXXXX-Y"
     position = "Software Engineer"
     livesIn = "[Brisbane, Australia](https://en.wikipedia.org/wiki/Brisbane)"
     scope = [
-        "Github [projects](https://github.com/chung)",
-        #"Open Source [community management](#)"
+        "[Github projects](https://github.com/chung)",
+        "[LinkedIn profile](https://www.linkedin.com/in/chunglun/)"
       ]
-    biography = """Chung Nguyen is an old school software engineer.
-    He read [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) cover to cover when it first come out. Graduated from [UNSW](https://www.unsw.edu.au), he has lived in Sydney, Atlanta and Ho Chi Minh City.
-    He now enjoys the [beautiful river city](https://en.wikipedia.org/wiki/Brisbane). He likes outdoor and nature. Hiking and fishing are his favourite pastimes. He also loves to play chess and once wrote a chess server just to play with his friends.
+    biography = """Chung is an old school software engineer.
+    He read [The Practice of Programming](https://en.wikipedia.org/wiki/The_Practice_of_Programming) cover to cover when it first come out. Graduated from [UNSW](https://www.unsw.edu.au), he has lived in Sydney, Atlanta and Saigon.
+    He now enjoys the [beautiful river city](https://en.wikipedia.org/wiki/Brisbane). He likes outdoor and nature. Hiking and fishing are his favourite pastimes. He also loves playing chess and once wrote a chess server just so he could play with his long-distance friends.
     He believes life is truly an amazing adventure. So he is not afraid to try and experiment, especially learning new things.
     Recently he even taught himself how to [play the piano](http://learn-piano.herokuapp.com/basics/).
     """
@@ -80,7 +80,7 @@ googleAnalytics = "UA-XXXXX-Y"
 
     #postURL = "https://example.com/mailout/"
 
-    enable = true
+    enable = false
     title = "Touch Me!"
     namePlaceholder = "Name"
     emailPlaceholder = "Email"
